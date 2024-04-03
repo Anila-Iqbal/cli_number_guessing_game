@@ -1,5 +1,5 @@
 {
-  "name": "anila-iqbal_cli_number_guessing_game",
+  "name": "anila-iqbal_number_guessing_game_cli",
   "version": "1.0.0",
   "description": "This is cli based number guessing game",
   "main": "index.js",
